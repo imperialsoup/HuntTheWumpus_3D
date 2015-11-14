@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a901adb82faa01d4fbfc952739bb9073
+timeCreated: 1447223549
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - batTexture: {instanceID: 0}
+  - wumpusTexture: {instanceID: 0}
+  - pitTexture: {instanceID: 0}
+  - batplanePB: {fileID: 498746, guid: 0fb0426458e20a447a529fbc0c5ebdef, type: 2}
+  - pitplanePB: {fileID: 406224, guid: ef00493f2d5a5b241b64c2d891e048c8, type: 2}
+  - wumpusplanePB: {fileID: 476262, guid: 6b1d6b8095c83ef4fba06d6642046a33, type: 2}
+  - batplaneIN: {fileID: 498746, guid: 0fb0426458e20a447a529fbc0c5ebdef, type: 2}
+  - pitplaneIN: {instanceID: 0}
+  - wumpusplaneIN: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
